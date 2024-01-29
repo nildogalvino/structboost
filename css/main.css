@@ -192,7 +192,6 @@ header nav ul a:hover{
 .s-newsltter{
     padding: 8.9rem 0;
     background-color: var(--pink-10);
-    display: none;
 }
 
 .s-newsltter .container{
@@ -447,5 +446,8 @@ footer .copy strong{
     }
     .s-art-front .title-text p{
         font-size: 1.6rem;
+    }
+    .s-newsltter h2{
+        font-size: 4rem;
     }
 }
